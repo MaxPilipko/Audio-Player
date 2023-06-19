@@ -1,1 +1,1 @@
-# Practice project - Music Player
+# Предипломний проект - Музикальний плеєр
